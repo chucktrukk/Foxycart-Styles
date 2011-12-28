@@ -1,0 +1,52 @@
+* {
+  background: #fff !important;
+}
+
+body {
+  font-family: Arial, serif;
+  background: none;
+  color: black;
+  font-size: 12px !important;
+}
+
+h2 {
+  margin: 0 0 0 0 !important;
+  padding: 0 0 5px 0 !important;
+  font-size: 16px !important;
+}
+
+li {
+  padding: 0 0 0 0 !important;
+}
+
+.fc_pre, .fc_text {
+  padding: 0 3px 3px 0 !important;
+  font-size: 12px !important;
+}
+
+#fc_cart_table td, #fc_cart_table th {
+  font-size: 12px !important;
+  padding: 3px !important;
+}
+
+#container {
+  width: 100%;
+  margin: 0; padding: 0;
+  background: none;
+}
+
+nav, footer, #fc_receipt_heading, .menu-background, header {
+  display: none;
+}
+
+#printed-article {
+  border: 1px solid #666;
+  padding: 10px;
+}
+
+#main, #main .content, #main .content .grid11 {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  border: none;
+}
